@@ -9,4 +9,8 @@
 ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-EFD81D?style=for-the-badge)
 ![REACT](https://img.shields.io/badge/-REACT-212121?style=for-the-badge)
 
-Follow Me
+### Follow Me
+
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-424242?style=for-the-badge&logo=telegram)](https://t.me/herowamup)
+[![Instagram](https://img.shields.io/badge/-Instagram-424242?style=for-the-badge&logo=Instagram)](https://instagram.com/herowarmup/)
+[![Vk](https://img.shields.io/badge/-vk-424242?style=for-the-badge&logo=vk)](https://vk.com/herowarmup/)
