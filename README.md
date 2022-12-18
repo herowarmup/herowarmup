@@ -15,4 +15,4 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-424242?style=for-the-badge&logo=Instagram)](https://instagram.com/herowarmup/)
 [![Vk](https://img.shields.io/badge/-vk-424242?style=for-the-badge&logo=vk)](https://vk.com/herowarmup/)
 
-[![Herowarmup's GitHub stats](https://github-readme-stats.vercel.app/api?username=herowarmup&show_icons=true&&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+![Herowarmup's GitHub stats](https://github-readme-stats.vercel.app/api?username=herowarmup&show_icons=true&&theme=buefy)
